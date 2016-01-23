@@ -1,0 +1,2 @@
+E:\OpenCV-android-sdk\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\classes\debug
+E:\OpenCV-android-sdk\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\pre-dexed\debug\classes-9d2c99c6bb754845f9d8aa2f51a0dcf33911b6a8.jar
